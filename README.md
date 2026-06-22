@@ -89,5 +89,3 @@ Compiled by **Upendra Kumar** — *upendra.kumar48762@gamil.com*
 Issues, suggestions, and pull requests welcome.
 
 ---
-
-*If you find this useful, please subscribe to the CampusX YouTube channel. The course is free; respect goes a long way.*
